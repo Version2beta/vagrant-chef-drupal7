@@ -1,0 +1,6 @@
+{
+  "require": {
+    "thecodingmachine/drupal": "~7.18",
+    "drupal/drupal-extension": "dev-master"
+  }
+}
