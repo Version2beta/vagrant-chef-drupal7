@@ -1,4 +1,4 @@
-# vagrant-chef-composer
+# vagrant-chef-drupal7
 
 A shortcut to a Drupal 7 dev environment using PHP Composer on Vagrant (1.2+) provisioned by Chef.
 
